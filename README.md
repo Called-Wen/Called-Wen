@@ -6,25 +6,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=👋+HI,+I'M++Wen;I'M+FROM+MOZAMBIQUE,+MAPUTO;I+STUDY+IT+DEVELOPING;AT+EDUARDO+MONDLANE+UNIVERSITY;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<!--Image Profile and Git Hub General Stat's-->
 <div align="center">
-  <a href="https://github.com/Called-Wen">
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Called-Wen&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wen  github stats" /> 
+  <a href="#">
+     <img width="50%" src="https://github-stats-alpha.vercel.app/api?username=Called-Wen" alt="Wellington Macie github stats" /> 
   </a>
-  <a href="https://github.com/Called-Wen">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Called-Wen&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   <a href="#">
+     <img width="42%" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=Called-Wen&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Programming Languages Wellington Macie github stats" alt="Programming Languages" /> 
   </a>
 </div>
+<br> </br>
 
 
-
-
-<p align="center">
-  <a href="https://github.com/Called-Wen">
-    <img src= https://github-profile-trophy.vercel.app/?username=Called-Wen&theme=dark_lover />
-  </a>
-</p>
-
-
+<!-- Grafh and Git Hub General Stat's-->
+<div align=center>
+  <a href="#">
+  <img width=94% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Called-Wen&theme=github" alt="Grafh Contributions"/>
+</a>
+</div>
+<br> </br>
  
  <br> </br>
  ### Skills:
